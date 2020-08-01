@@ -1,0 +1,7 @@
+﻿Nothing - 19 csv files for data collected with no barriers
+Blue Wallet- 19 csv files for data collected with Cotton and Polyester barriers
+Blue Walled (RFID) - 19 csv files for data collected with Cotton, Polyester, and RFID barriers
+Brown Bag- 19 csv files for data collected with PVC and Polyester barriers
+BWSI Backpack- 19 csv files for data collected with BWSI Backpack barriers
+Jeans - 19 csv files for data collected with denim barrier
+raw_data.csv - master data file containing RSSI, material, and distance data
