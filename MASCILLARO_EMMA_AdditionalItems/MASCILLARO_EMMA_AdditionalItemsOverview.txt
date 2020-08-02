@@ -1,0 +1,4 @@
+Nothing_6ft_variation.png - RSSI Signal over 2 Minutes with No Barrier at 6 ft
+Nothing_6ft_variation_moving_average.png - RSSI Signal over 2 Minutes with No Barrier at 6 ft (Moving Average)
+Raw_data_100th_percentile.png - RSSI Max vs Distance for Different Materials
+Raw_data_means.png - RSSI Average vs Distance for Different Materials
