@@ -29,5 +29,5 @@ for obj in objects:
         except:
             dataset = temp_dataframe
 
-# Save as csv
+# Save as csv file
 dataset.to_csv("raw_data.csv")
