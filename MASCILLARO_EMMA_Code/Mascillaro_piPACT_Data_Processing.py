@@ -23,7 +23,7 @@ for obj in objects:
         temp_dataframe["Object"] = obj
         print(temp_dataframe.head())
 
-        # Compiles all data into one file
+        # Compiles all data into one file 
         try:
             dataset = dataset.append(temp_dataframe, ignore_index=True)
         except:
